@@ -7,3 +7,5 @@ Index:
 |-- data_integration_manager
 |-- feature_manager
 |-- modeling_manager
+|-- accuracy_checker
+
